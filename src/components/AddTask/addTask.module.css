@@ -1,0 +1,30 @@
+
+h1{
+    text-align: center;
+  display: block;
+  max-width: 210px;
+  margin: auto;
+  background-color:#5c9ee4;
+  margin-top:50px;
+}
+.todoForm{
+    text-align: center;
+    max-width: 210px;
+margin: auto;
+border: thin solid gray;
+padding-bottom: 15px;
+padding-top: -20px;
+background-color: white;
+}
+.btn{
+    background-color: transparent;
+    border: none;
+    font-size: 25px;
+    color: #0E5CAD;
+    
+}
+input{
+    padding: 3px;
+    border: none;
+    outline: none;
+}
